@@ -3,45 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ali Alhusseini - Resume</title>
+    <title>Resume</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 40px;
             line-height: 1.6;
-            color: #333;
-        }
-        h1, h2 {
-            color: #0056b3;
+            margin: 0;
+            padding: 0;
+            max-width: 800px;
+            margin: auto;
         }
         .section {
-            margin-bottom: 20px;
+            margin: 20px 0;
         }
-        .section h2 {
-            border-bottom: 2px solid #0056b3;
+        h2 {
+            border-bottom: 2px solid #000;
             padding-bottom: 5px;
         }
-        .contact-info, .skills-list, .education-list, .experience-list {
+        ul {
             list-style-type: none;
             padding: 0;
         }
-        .contact-info li, .skills-list li, .education-list li, .experience-list li {
+        li {
             margin-bottom: 10px;
+        }
+        .education-list li,
+        .experience-list li,
+        .skills-list li {
+            margin-bottom: 5px;
         }
     </style>
 </head>
 <body>
-    <h1>Ali Alhusseini</h1>
-    <ul class="contact-info">
-        <li>Suffield, Connecticut | (860) 929-8371</li>
-        <li>Email: <a href="mailto:Ali.alhusseini@uconn.edu">Ali.alhusseini@uconn.edu</a></li>
-    </ul>
-
     <div class="section">
         <h2>Objective</h2>
-        <p>Dedicated and experienced manager with a proven track record in both the hospitality industry and entrepreneurship. 
-        Currently pursuing a Bachelor of Arts in Economics to further enhance business acumen. 
-        Seeking opportunities to leverage my skills and expertise in management and business operations.</p>
+        <p>Dedicated and experienced manager with a proven track record in both the hospitality industry and entrepreneurship. Currently pursuing a Bachelor of Arts in Economics to further enhance business acumen. Seeking opportunities to leverage my skills and expertise in management and business operations.</p>
     </div>
 
     <div class="section">
