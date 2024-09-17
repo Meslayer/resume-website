@@ -5,7 +5,7 @@ Dedicated and experienced manager with a proven track record in both the hospita
 
 ## Education
 **University of Connecticut** – Storrs, CT  
-Bachelor of Science/Art, Major (Expected Graduation: May 2024)  
+Bachelor of Science/Art, Major:Economics(Expected Graduation: May 2024)  
 Related Courses: Microeconomics, Macroeconomics, Business Economics, Statistical Analysis, Financial Management
 
 ## Experience
