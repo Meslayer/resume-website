@@ -1,5 +1,5 @@
 # Ali Alhusseini
-
+#www.linkedin.com/in/ali-alhusseini-7943082b3
 ## Objective
 Dedicated and experienced manager with a proven track record in both the hospitality industry and entrepreneurship. Currently pursuing a Bachelor of Arts in Economics to further enhance business acumen. Seeking opportunities to leverage my skills and expertise in management and business operations.
 
